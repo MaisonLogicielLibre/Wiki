@@ -1,0 +1,11 @@
+====== Les projets ======
+
+Les projets peuvent être des projets de développement ou d'administration réseau, dans tout les cas, pour être accepté, ils doivent suivre un certains nombre de requis favorisant l'amélioration des portfolios étudiants. 
+
+Entre autre ils doivent:
+
+  * Être sous licence [[https://fr.wikipedia.org/wiki/Open_source|Open-Source]] ou [[https://www.gnu.org/philosophy/free-sw.html|Libre]].
+  * Suivre un certains nombre de bonne pratique associé a leurs domaines.
+  * Disposer d'au moins un mentor supportant le projet.
+
+Les projets peuvent appartenir à une ou plusieurs [[fr:organizations|organisations]], disposant de membres pouvant devenir mentor sur des projets. Il peut toutefois arriver qu'un projet n'appartienne pas à une organisation, auquel cas ce dernier aura plus de chance de contenir des missions à titre de bénévole.

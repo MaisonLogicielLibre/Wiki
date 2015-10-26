@@ -6,3 +6,15 @@ start
 playground:playground
 fr:sidebar
 fr:start
+en:start
+wiki:dokuwiki
+fr:topnav
+en:topnav
+en:sidebar
+fr:projects:submit
+fr:organizations:submit
+fr:missions:add
+fr:organizations
+fr:projects
+fr:missions
+fr:missions:apply

@@ -1,0 +1,14 @@
+====== Les missions ======
+
+Les missions sont des appels à contribution lancé par les mentors d'un [[fr:projects|projet]]. Ces offres peuvent être de différents type:
+
+  * Bénévolat
+  * Offre de stage
+  * Projet de fin d'étude
+  * Projet de maîtrise
+
+Une mission est composé d'une tâche a remplir bien défini dont le candidat sélectionner devras s'occuper dans le temps imparti décrit dans l'offre.
+
+Les missions permettent aux étudiant de participer au [[fr:projects|projet]] et donc de ce fait d'améliorer leurs portfolio aux travers de projet [[https://fr.wikipedia.org/wiki/Open_source|Open-Source]] ou [[https://www.gnu.org/philosophy/free-sw.fr.html|Libre]].
+
+Tout les mentors de projet peuvent [[fr:missions:add|créer une mission]] sur laquelle les étudiant pourront [[fr:missions:apply|postuler]].

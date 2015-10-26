@@ -1,0 +1,10 @@
+====== Comment créer une organisation? ======
+
+
+Pour créer une organisation, il vous suffit de nous la décrire sur [[http://maisonlogiciellibre.org/organizations/submit|la page de création d'organisation]]. Vous devrez y saisir :
+
+  * Le nom de votre organisation
+  * Une description de votre organisation
+  * Un lien vers votre site web (facultatif)
+
+Une fois votre organisation créé, vous pourrez [[fr:projects:submit|créer un projet]] afin de commencer a échanger avec notre communauté.

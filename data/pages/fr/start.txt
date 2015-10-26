@@ -6,4 +6,10 @@ La mission première de ML2 est de proposer un lieu de rencontre et de partage �
 
 La mission de ML2 est donc une mission éducative. Diverses activités seront éventuellement possibles : activités libres de développement, projets de fin d’études, stages, projets de maitrise, … Toutes ces activités graviteront au tour de projets de logiciel libre. Ces derniers pourront être proposés par les divers intervenants (étudiants, professeurs ou universités) ou encore être en lien avec des entreprises voulant s’investir dans la formation des étudiants. L’organisation de séminaires pourra compléter ce volet éducatif.
 
-En participant aux activités de ML2, les étudiants pourront ainsi (i) explorer le monde du logiciel libre avec ses codes et ses objectifs ; (ii) développer leurs habilités à analyser, concevoir ou développer des tâches complexes ; (iii) bâtir un portfolio professionnel avec leurs réalisations en logiciels libres ; (iv) obtenir éventuellement des reconnaissances de leurs acquis de leur université.
+==== En participant aux activités de ML2, les étudiants pourront: ====
+
+
+  - Explorer le monde du logiciel libre avec ses codes et ses objectifs;
+  - Développer leurs habilités à analyser, concevoir ou développer des tâches complexes;
+  - Bâtir un portfolio professionnel avec leurs réalisations en logiciels libres;
+  - Obtenir éventuellement des reconnaissances de leurs acquis de leur université.

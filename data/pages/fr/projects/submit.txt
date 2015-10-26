@@ -1,0 +1,11 @@
+====== Comment soumettre un projet? ======
+
+
+Pour soumettre un projet il vous suffit de vous rendre sur [[http://maisonlogiciellibre.org/projects/submit|la page de création de projet]] et d'y saisir quelques informations :
+
+  * Le nom de votre projet
+  * Une description de votre projet
+  * Un lien vers son site web (facultatif)
+  * Les [[fr:organizations|organisations]] auxquels il est rattaché (facultatif)
+
+Une fois le projet créé, vous serez redirigez sur la page de votre projet sur laquelle vous pourrez [[fr:missions:add|créer des missions]].

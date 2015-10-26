@@ -1,0 +1,13 @@
+====== Postuler sur une mission ======
+
+En tant qu'étudiant, si une [[fr:missions|mission]] vous intéresse, vous pouvez y postuler de manière à entrer dans la liste des candidat pouvant être sélectionner.
+
+Il faut cependant vérifier a ce que votre profil correspond aux besoins de la mission:
+
+  * Votre niveau de compétence semble suffisant
+  * Votre emploi du temps est cohérent avec la charge de travail nécessaire
+  * Le type de participation voulu vous convient (bénévolat, stagiaire, etc..)
+
+Il pourrait être intéressant pour vous de regarder les autres [[fr:projects|projets]] proposé par le mentor ou l’[[fr:organizations|organisation]] en charge de celui-ci avant de vous décider pleinement à postuler.
+
+Enfin, si vous êtes sur de votre choix, n'hésitez pas à vous rendre sur la page de présentation de la mission qui vous intéresse pour y postuler.

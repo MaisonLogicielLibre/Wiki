@@ -1,0 +1,16 @@
+====== Our Mission ======
+
+
+This initiative is born from a meeting between the ÉTS director and Google Montreal director. Seeing the difficulty that students have to hone their habilities to develop complex software and show the end product (code) to recruiters, they decided to establish the Maison du Logiciel Libre (ML2).
+
+The foremost mission of ML2 is to offer a place of meeting and sharing in Montreal allowing the students to participate in open source software projects. This initiative try to reach students across of Montreal universities and to include the largest possible community, thus allowing the students to meet participants from multiple horizons with varied academic and professional experiences.
+
+The mission of ML2 is an educational mission. Multiple activities will be eventually offered : free development, graduation projects, internships, mastering projects, … All of these activities will gravitate around open source projects. These projects will be proposed by : students, teachers, universities or organisations wanting to invest in students formation. Seminars will complete this educational component.
+
+==== By participating in ML2 activities, the students will be able to : ====
+ 
+
+  - Discover the open source software world with its codes and objectives; 
+  - Hone their habilities to analyse, design and develop complex tasks;
+  - Build a portfolio with their open source achievements;
+  - Obtain recognitions from their university.

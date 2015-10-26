@@ -1,0 +1,5 @@
+====== Les organisations ======
+
+Les organisations au sein de MLL peuvent être de deux ordres : industriel ou académique. Dans les deux cas elles on pour but de soumettre des [[fr:projects|projets]] afin de recruter des étudiants aux travers de [[fr:missions|missions]].
+
+Les organisations permettent de rassemblé différents acteurs et projets au sein d'un même groupe, cela permet notamment une meilleure compréhension de l'entité par les étudiants, ils y vois plus rapidement les type de projet soumis ainsi que les contributeurs et mentors associés a chaque projets.
